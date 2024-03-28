@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Simple-breakbeat",
+    "file": "samples/367550__akirill__simple-breakbeat\t0:22\t\t\t\t0\t",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Piano_Blues",
+    "file": "samples/444867__pax11__piano_blues-90bpm\t0:21\t\t\t\t0\t",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Guitar Harmony",
+    "file": "samples/714682__kaseyhaze__guitar-harmony2\t0:19\t\t\t\t0\t",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]

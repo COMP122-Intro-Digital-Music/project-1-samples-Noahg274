@@ -1,1 +1,17 @@
-[ ]
+[
+  {
+    "name": "Carhartt",
+    "pitch": "A3",
+    "pattern": "2093"
+  },
+  {
+    "name": "Nike",
+    "pitch": "C4",
+    "pattern": "3500"
+  },
+  {
+    "name": "Rome",
+    "pitch": "F4",
+    "pattern": "4444"
+  }
+]
